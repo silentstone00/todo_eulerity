@@ -13,15 +13,15 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/todo_1.png" width="30%" />
-  <img src="screenshots/todo_2.png" width="30%" />
-  <img src="screenshots/todo_3.png" width="30%" />
+  <img src="screenshots/todo_1.PNG" width="30%" />
+  <img src="screenshots/todo_2.PNG" width="30%" />
+  <img src="screenshots/todo_3.PNG" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/todo_4.png" width="30%" />
-  <img src="screenshots/todo_5.png" width="30%" />
-  <img src="screenshots/toso_6.png" width="30%" />
+  <img src="screenshots/todo_4.PNG" width="30%" />
+  <img src="screenshots/todo_5.PNG" width="30%" />
+  <img src="screenshots/toso_6.PNG" width="30%" />
 </p>
 
 ### Key Features
