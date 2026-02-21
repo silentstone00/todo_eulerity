@@ -210,13 +210,6 @@ Or in Xcode: `Cmd + U`
 - [x] Light/Dark mode
 - [x] Haptic feedback
 - [x] Tap-to-complete UX
-- [x] Launch screen
-
-### Not Implemented (By Design)
-- ❌ Task expiration time picker
-- ❌ Local notifications
-- ❌ Widgets
-- ❌ App Intents/Siri
 
 ## 🔧 Technical Stack
 
@@ -265,14 +258,6 @@ Or in Xcode: `Cmd + U`
 - ✅ Clean code organization
 - ✅ No warnings or errors
 
-## 🤝 Contributing
-
-This is a take-home exercise project, but feedback and suggestions are welcome!
-
-## 📄 License
-
-MIT License - feel free to use this code for learning purposes.
-
 ## 👤 Author
 
 Built as part of the Eulerity iOS Take-Home Exercise
@@ -281,4 +266,4 @@ Built as part of the Eulerity iOS Take-Home Exercise
 
 **Time Spent**: ~6 hours  
 **Focus**: Clean architecture, testability, and core functionality  
-**Status**: ✅ Ready for submission (pending demo video)
+
