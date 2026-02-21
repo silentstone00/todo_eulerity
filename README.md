@@ -5,11 +5,24 @@
 ![iOS](https://img.shields.io/badge/iOS-16.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-✓-green.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 ## 📱 Overview
 
 **Today** is a unique todo app with one central constraint: tasks only exist for the current day. No backlogs, no future planning, no overdue tasks. Just focus on what matters today.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/todo_1.png" width="30%" />
+  <img src="screenshots/todo_2.png" width="30%" />
+  <img src="screenshots/todo_3.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/todo_4.png" width="30%" />
+  <img src="screenshots/todo_5.png" width="30%" />
+  <img src="screenshots/toso_6.png" width="30%" />
+</p>
 
 ### Key Features
 
