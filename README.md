@@ -21,7 +21,7 @@
 <p align="center">
   <img src="screenshots/todo_4.PNG" width="30%" />
   <img src="screenshots/todo_5.PNG" width="30%" />
-  <img src="screenshots/toso_6.PNG" width="30%" />
+  <img src="screenshots/todo_6.PNG" width="30%" />
 </p>
 
 ### Key Features
