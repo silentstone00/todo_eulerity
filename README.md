@@ -103,7 +103,7 @@ Todo_hackathon/
 
 1. Clone the repository
 ```bash
-git clone <https://github.com/silentstone00/todo_eulerity>
+git clone https://github.com/silentstone00/todo_eulerity
 cd Todo_hackathon
 ```
 
